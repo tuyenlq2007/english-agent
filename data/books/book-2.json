@@ -1,0 +1,36 @@
+{
+  "id": "book-2",
+  "title": "Book 2",
+  "items": [
+    {
+      "id": "book-2-word-001",
+      "text": "schedule",
+      "meaningVi": "lịch trình",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-002",
+      "text": "available",
+      "meaningVi": "có sẵn, rảnh",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-003",
+      "text": "important",
+      "meaningVi": "quan trọng",
+      "type": "word"
+    },
+    {
+      "id": "book-2-sentence-001",
+      "text": "What time is the meeting?",
+      "meaningVi": "Cuộc họp lúc mấy giờ?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-002",
+      "text": "I am available this afternoon.",
+      "meaningVi": "Chiều nay tôi rảnh.",
+      "type": "sentence"
+    }
+  ]
+}

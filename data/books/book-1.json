@@ -1,0 +1,36 @@
+{
+  "id": "book-1",
+  "title": "Book 1",
+  "items": [
+    {
+      "id": "book-1-word-001",
+      "text": "comfortable",
+      "meaningVi": "thoải mái",
+      "type": "word"
+    },
+    {
+      "id": "book-1-word-002",
+      "text": "vegetable",
+      "meaningVi": "rau củ",
+      "type": "word"
+    },
+    {
+      "id": "book-1-word-003",
+      "text": "thought",
+      "meaningVi": "suy nghĩ",
+      "type": "word"
+    },
+    {
+      "id": "book-1-sentence-001",
+      "text": "I want a glass of water.",
+      "meaningVi": "Tôi muốn một ly nước.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-1-sentence-002",
+      "text": "Could you speak more slowly?",
+      "meaningVi": "Bạn có thể nói chậm hơn không?",
+      "type": "sentence"
+    }
+  ]
+}

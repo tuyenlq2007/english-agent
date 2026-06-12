@@ -1,0 +1,17 @@
+[
+  {
+    "id": "book-1",
+    "title": "Book 1",
+    "file": "book-1.json"
+  },
+  {
+    "id": "book-2",
+    "title": "Book 2",
+    "file": "book-2.json"
+  },
+  {
+    "id": "book-3",
+    "title": "Book 3",
+    "file": "book-3.json"
+  }
+]

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>English Agent</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="practice-panel" aria-labelledby="app-title">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Vietnamese-supported practice</p>
+            <h1 id="app-title">English Agent</h1>
+          </div>
+          <div class="scoreboard" aria-label="Session progress">
+            <span><strong id="passed-count">0</strong> passed</span>
+            <span><strong id="retry-count">0</strong> retry</span>
+          </div>
+        </header>
+
+        <div class="progress-track" aria-hidden="true">
+          <div id="progress-bar" class="progress-bar"></div>
+        </div>
+
+        <section class="setup-panel" aria-label="Practice setup">
+          <label for="book-select">Book</label>
+          <select id="book-select"></select>
+          <label for="start-select">Start from</label>
+          <select id="start-select"></select>
+        </section>
+
+        <section class="target-area" aria-live="polite">
+          <p id="agent-message" class="agent-message">Bấm bắt đầu để luyện nói.</p>
+          <div class="target-meta">
+            <span id="item-type">word</span>
+            <span id="attempt-count">0 / 3 attempts</span>
+          </div>
+          <p id="meaning-text" class="meaning-text">Nghĩa: thoải mái</p>
+          <h2 id="target-text">comfortable</h2>
+          <p id="transcript" class="transcript">Bạn nói: ...</p>
+        </section>
+
+        <section class="controls" aria-label="Practice controls">
+          <button id="start-btn" class="primary">Start</button>
+          <button id="speak-btn">Speak target</button>
+          <button id="listen-btn">Listen</button>
+          <button id="correct-btn">Mark correct</button>
+          <button id="skip-btn">Retry later</button>
+          <button id="reload-btn">Reload agent</button>
+        </section>
+
+        <section class="queue" aria-label="Practice queue">
+          <h2>Today</h2>
+          <ul id="queue-list"></ul>
+        </section>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
