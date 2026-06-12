@@ -1,36 +1,282 @@
 {
-  "id": "book-1",
-  "title": "Book 1",
+  "id": "starter",
+  "title": "Starter",
   "items": [
     {
-      "id": "book-1-word-001",
-      "text": "comfortable",
-      "meaningVi": "thoải mái",
-      "type": "word"
-    },
-    {
-      "id": "book-1-word-002",
-      "text": "vegetable",
-      "meaningVi": "rau củ",
-      "type": "word"
-    },
-    {
-      "id": "book-1-word-003",
-      "text": "thought",
-      "meaningVi": "suy nghĩ",
-      "type": "word"
-    },
-    {
-      "id": "book-1-sentence-001",
-      "text": "I want a glass of water.",
-      "meaningVi": "Tôi muốn một ly nước.",
+      "id": "starter-sentence-001",
+      "text": "Hello, Rosy.",
+      "meaningVi": "Xin chào, Rosy.",
       "type": "sentence"
     },
     {
-      "id": "book-1-sentence-002",
-      "text": "Could you speak more slowly?",
-      "meaningVi": "Bạn có thể nói chậm hơn không?",
+      "id": "starter-sentence-002",
+      "text": "Hello, Tim.",
+      "meaningVi": "Xin chào, Tim.",
       "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-003",
+      "text": "Hello, everyone.",
+      "meaningVi": "Xin chào mọi người.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-004",
+      "text": "Hello, Billy and Miss Jones.",
+      "meaningVi": "Xin chào Billy và cô Jones.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-005",
+      "text": "Come and have some fun!",
+      "meaningVi": "Hãy đến và cùng vui nhé!",
+      "type": "sentence"
+    },
+
+    {
+      "id": "starter-sentence-006",
+      "text": "Hello. What's your name?",
+      "meaningVi": "Xin chào. Tên bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-007",
+      "text": "My name's Rosy.",
+      "meaningVi": "Tên tôi là Rosy.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-008",
+      "text": "And my name's Tim.",
+      "meaningVi": "Và tên tôi là Tim.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-009",
+      "text": "Hello, class.",
+      "meaningVi": "Xin chào cả lớp.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-010",
+      "text": "My name's Miss Jones.",
+      "meaningVi": "Tên cô là Miss Jones.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-011",
+      "text": "Oh! Who's this?",
+      "meaningVi": "Ồ! Đây là ai vậy?",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-012",
+      "text": "He's my cousin, Billy.",
+      "meaningVi": "Đây là em họ của tôi, Billy.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-013",
+      "text": "Hi, Billy. How old are you?",
+      "meaningVi": "Chào Billy. Em bao nhiêu tuổi?",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-014",
+      "text": "I'm two.",
+      "meaningVi": "Em hai tuổi.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-015",
+      "text": "I'm sorry. Come on, Billy.",
+      "meaningVi": "Cô xin lỗi. Đi nào, Billy.",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-016",
+      "text": "Goodbye!",
+      "meaningVi": "Tạm biệt!",
+      "type": "sentence"
+    },
+
+    {
+      "id": "starter-sentence-017",
+      "text": "Hello. What's your name?",
+      "meaningVi": "Xin chào. Tên bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-018",
+      "text": "My name's Pete. What's your name?",
+      "meaningVi": "Tên tôi là Pete. Tên bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-019",
+      "text": "My name's Jon.",
+      "meaningVi": "Tên tôi là Jon.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "starter-word-001",
+      "text": "one",
+      "meaningVi": "một",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-002",
+      "text": "two",
+      "meaningVi": "hai",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-003",
+      "text": "three",
+      "meaningVi": "ba",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-004",
+      "text": "four",
+      "meaningVi": "bốn",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-005",
+      "text": "five",
+      "meaningVi": "năm",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-006",
+      "text": "six",
+      "meaningVi": "sáu",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-007",
+      "text": "seven",
+      "meaningVi": "bảy",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-008",
+      "text": "eight",
+      "meaningVi": "tám",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-009",
+      "text": "nine",
+      "meaningVi": "chín",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-010",
+      "text": "ten",
+      "meaningVi": "mười",
+      "type": "word"
+    },
+
+    {
+      "id": "starter-sentence-020",
+      "text": "How old are you?",
+      "meaningVi": "Bạn bao nhiêu tuổi?",
+      "type": "sentence"
+    },
+    {
+      "id": "starter-sentence-021",
+      "text": "I'm seven.",
+      "meaningVi": "Tôi bảy tuổi.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "starter-word-011",
+      "text": "Sunday",
+      "meaningVi": "Chủ nhật",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-012",
+      "text": "Monday",
+      "meaningVi": "Thứ hai",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-013",
+      "text": "Tuesday",
+      "meaningVi": "Thứ ba",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-014",
+      "text": "Wednesday",
+      "meaningVi": "Thứ tư",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-015",
+      "text": "Thursday",
+      "meaningVi": "Thứ năm",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-016",
+      "text": "Friday",
+      "meaningVi": "Thứ sáu",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-017",
+      "text": "Saturday",
+      "meaningVi": "Thứ bảy",
+      "type": "word"
+    },
+
+    {
+      "id": "starter-word-018",
+      "text": "red",
+      "meaningVi": "màu đỏ",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-019",
+      "text": "yellow",
+      "meaningVi": "màu vàng",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-020",
+      "text": "pink",
+      "meaningVi": "màu hồng",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-021",
+      "text": "green",
+      "meaningVi": "màu xanh lá cây",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-022",
+      "text": "purple",
+      "meaningVi": "màu tím",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-023",
+      "text": "orange",
+      "meaningVi": "màu cam",
+      "type": "word"
+    },
+    {
+      "id": "starter-word-024",
+      "text": "blue",
+      "meaningVi": "màu xanh dương",
+      "type": "word"
     }
   ]
 }

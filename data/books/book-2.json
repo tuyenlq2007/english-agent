@@ -4,32 +4,380 @@
   "items": [
     {
       "id": "book-2-word-001",
-      "text": "schedule",
-      "meaningVi": "lịch trình",
+      "text": "pen",
+      "meaningVi": "bút mực",
       "type": "word"
     },
     {
       "id": "book-2-word-002",
-      "text": "available",
-      "meaningVi": "có sẵn, rảnh",
+      "text": "rubber",
+      "meaningVi": "cục tẩy",
       "type": "word"
     },
     {
       "id": "book-2-word-003",
-      "text": "important",
-      "meaningVi": "quan trọng",
+      "text": "pencil",
+      "meaningVi": "bút chì",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-004",
+      "text": "ruler",
+      "meaningVi": "thước kẻ",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-005",
+      "text": "book",
+      "meaningVi": "quyển sách",
       "type": "word"
     },
     {
       "id": "book-2-sentence-001",
-      "text": "What time is the meeting?",
-      "meaningVi": "Cuộc họp lúc mấy giờ?",
+      "text": "Look at the train, Rosy.",
+      "meaningVi": "Nhìn đoàn tàu này đi, Rosy.",
       "type": "sentence"
     },
     {
       "id": "book-2-sentence-002",
-      "text": "I am available this afternoon.",
-      "meaningVi": "Chiều nay tôi rảnh.",
+      "text": "A train? Oh, Billy!",
+      "meaningVi": "Đoàn tàu à? Ôi, Billy!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-003",
+      "text": "They're my school things.",
+      "meaningVi": "Đó là đồ dùng học tập của em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-004",
+      "text": "Look, what's this?",
+      "meaningVi": "Nhìn này, cái này là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-005",
+      "text": "It's a pen.",
+      "meaningVi": "Đó là một cây bút.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-006",
+      "text": "And what's this?",
+      "meaningVi": "Và cái này là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-007",
+      "text": "It's a rubber.",
+      "meaningVi": "Đó là một cục tẩy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-008",
+      "text": "That's right.",
+      "meaningVi": "Đúng rồi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-009",
+      "text": "Can I have my school things, please?",
+      "meaningVi": "Em có thể lấy lại đồ dùng học tập của em được không ạ?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-010",
+      "text": "OK, here you are.",
+      "meaningVi": "Được thôi, đây của em đây.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-011",
+      "text": "Your pencil, pen, ruler and rubber.",
+      "meaningVi": "Bút chì, bút mực, thước kẻ và cục tẩy của em.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "book-2-sentence-012",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-013",
+      "text": "It's a pen.",
+      "meaningVi": "Đó là một cây bút.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-014",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-015",
+      "text": "It's a pencil.",
+      "meaningVi": "Đó là một cây bút chì.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "book-2-word-006",
+      "text": "bag",
+      "meaningVi": "cặp sách",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-007",
+      "text": "folder",
+      "meaningVi": "bìa hồ sơ",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-008",
+      "text": "door",
+      "meaningVi": "cánh cửa",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-009",
+      "text": "window",
+      "meaningVi": "cửa sổ",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-010",
+      "text": "bookcase",
+      "meaningVi": "giá sách",
+      "type": "word"
+    },
+
+    {
+      "id": "book-2-sentence-016",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-017",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-018",
+      "text": "It's a book.",
+      "meaningVi": "Đó là một quyển sách.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-019",
+      "text": "Open the book.",
+      "meaningVi": "Mở quyển sách ra.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-020",
+      "text": "Close the book.",
+      "meaningVi": "Đóng quyển sách lại.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-021",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-022",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-023",
+      "text": "It's a door.",
+      "meaningVi": "Đó là một cánh cửa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-024",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-025",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-026",
+      "text": "It's a bag.",
+      "meaningVi": "Đó là một cái cặp sách.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-027",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-028",
+      "text": "What's this?",
+      "meaningVi": "Đây là cái gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-029",
+      "text": "It's a window.",
+      "meaningVi": "Đó là một cửa sổ.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "book-2-word-011",
+      "text": "apple",
+      "meaningVi": "quả táo",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-012",
+      "text": "bird",
+      "meaningVi": "con chim",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-013",
+      "text": "cat",
+      "meaningVi": "con mèo",
+      "type": "word"
+    },
+    {
+      "id": "book-2-word-014",
+      "text": "dog",
+      "meaningVi": "con chó",
+      "type": "word"
+    },
+
+    {
+      "id": "book-2-sentence-030",
+      "text": "This is an apple, a, a, apple.",
+      "meaningVi": "Đây là một quả táo, a, a, táo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-031",
+      "text": "This is a bird, b, b, bird.",
+      "meaningVi": "Đây là một con chim, b, b, chim.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-032",
+      "text": "This is a cat, c, c, cat.",
+      "meaningVi": "Đây là một con mèo, c, c, mèo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-033",
+      "text": "This is a dog, d, d, dog.",
+      "meaningVi": "Đây là một con chó, d, d, chó.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-034",
+      "text": "What has the dog got?",
+      "meaningVi": "Con chó có gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-035",
+      "text": "The cat likes birds.",
+      "meaningVi": "Con mèo thích chim.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-036",
+      "text": "The dog likes apples.",
+      "meaningVi": "Con chó thích táo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-037",
+      "text": "Here's the cat with the bird.",
+      "meaningVi": "Đây là con mèo với con chim.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-038",
+      "text": "Here's the dog with the apple.",
+      "meaningVi": "Đây là con chó với quả táo.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "book-2-sentence-039",
+      "text": "My name's Emma.",
+      "meaningVi": "Tên tôi là Emma.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-040",
+      "text": "This is my school bag.",
+      "meaningVi": "Đây là cặp sách của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-041",
+      "text": "This is my pencil case.",
+      "meaningVi": "Đây là hộp bút của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-042",
+      "text": "It's green.",
+      "meaningVi": "Nó màu xanh lá cây.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-043",
+      "text": "And this is my pencil.",
+      "meaningVi": "Và đây là bút chì của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-044",
+      "text": "This is my blue pen.",
+      "meaningVi": "Đây là bút mực màu xanh của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-045",
+      "text": "And this is my pink pen.",
+      "meaningVi": "Và đây là bút mực màu hồng của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-046",
+      "text": "Look at this!",
+      "meaningVi": "Nhìn cái này này!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-047",
+      "text": "It's a rubber.",
+      "meaningVi": "Đó là một cục tẩy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-2-sentence-048",
+      "text": "Can I see your bag?",
+      "meaningVi": "Tớ có thể xem cặp của cậu không?",
       "type": "sentence"
     }
   ]
