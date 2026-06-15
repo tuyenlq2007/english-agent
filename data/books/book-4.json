@@ -1,0 +1,348 @@
+{
+  "id": "book-4",
+  "title": "Book 4",
+  "items": [
+    {
+      "id": "book-4-word-001",
+      "text": "teacher",
+      "meaningVi": "giáo viên",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-002",
+      "text": "pupil",
+      "meaningVi": "học sinh",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-003",
+      "text": "housewife",
+      "meaningVi": "nội trợ",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-004",
+      "text": "fireman",
+      "meaningVi": "lính cứu hỏa",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-005",
+      "text": "pilot",
+      "meaningVi": "phi công",
+      "type": "word"
+    },
+    {
+      "id": "book-4-sentence-001",
+      "text": "Look! Is Billy a teacher?",
+      "meaningVi": "Nhìn kìa! Billy có phải là giáo viên không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-002",
+      "text": "Yes, he is.",
+      "meaningVi": "Vâng, đúng vậy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-003",
+      "text": "And Tim is a pupil.",
+      "meaningVi": "Và Tim là một học sinh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-004",
+      "text": "Is Grandma a teacher?",
+      "meaningVi": "Bà có phải là giáo viên không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-005",
+      "text": "No, she isn't.",
+      "meaningVi": "Không, bà ấy không phải.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-006",
+      "text": "She's a housewife.",
+      "meaningVi": "Bà ấy là một người nội trợ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-007",
+      "text": "Coming ...",
+      "meaningVi": "Đến đây...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-008",
+      "text": "Look! The meat ...",
+      "meaningVi": "Nhìn kìa! Miếng thịt...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-009",
+      "text": "Oh no!",
+      "meaningVi": "Ôi không!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-010",
+      "text": "Look at Grandpa.",
+      "meaningVi": "Nhìn ông kìa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-011",
+      "text": "Is he a fireman?",
+      "meaningVi": "Ông ấy có phải là lính cứu hỏa không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-012",
+      "text": "No, he isn't.",
+      "meaningVi": "Không, ông ấy không phải.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-013",
+      "text": "But he is a hero!",
+      "meaningVi": "Nhưng ông ấy là một người hùng!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-014",
+      "text": "She's a housewife.",
+      "meaningVi": "Bà ấy là một người nội trợ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-015",
+      "text": "He's a pupil.",
+      "meaningVi": "Cậu ấy là một học sinh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-016",
+      "text": "Is she a teacher?",
+      "meaningVi": "Cô ấy có phải là giáo viên không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-017",
+      "text": "No, she isn't.",
+      "meaningVi": "Không, cô ấy không phải.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-018",
+      "text": "Is he a teacher?",
+      "meaningVi": "Cậu ấy có phải là giáo viên không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-019",
+      "text": "Yes, he is.",
+      "meaningVi": "Vâng, đúng vậy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-020",
+      "text": "She's a housewife.",
+      "meaningVi": "Cô ấy là một người nội trợ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-021",
+      "text": "He's a pilot.",
+      "meaningVi": "Anh ấy là một phi công.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-022",
+      "text": "He's a fireman.",
+      "meaningVi": "Anh ấy là một lính cứu hỏa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-023",
+      "text": "He's a pupil.",
+      "meaningVi": "Cậu ấy là một học sinh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-word-006",
+      "text": "doctor",
+      "meaningVi": "bác sĩ",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-007",
+      "text": "policeman",
+      "meaningVi": "cảnh sát",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-008",
+      "text": "farmer",
+      "meaningVi": "nông dân",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-009",
+      "text": "postman",
+      "meaningVi": "người đưa thư",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-010",
+      "text": "zookeeper",
+      "meaningVi": "người chăm sóc thú ở sở thú",
+      "type": "word"
+    },
+    {
+      "id": "book-4-sentence-024",
+      "text": "Two kind doctors",
+      "meaningVi": "Hai bác sĩ tốt bụng",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-025",
+      "text": "Meet in a lane.",
+      "meaningVi": "Gặp nhau trên một con đường nhỏ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-026",
+      "text": "Hello, hello,",
+      "meaningVi": "Xin chào, xin chào,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-027",
+      "text": "What's your name?",
+      "meaningVi": "Bạn tên là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-028",
+      "text": "How are you?",
+      "meaningVi": "Bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-029",
+      "text": "How are you?",
+      "meaningVi": "Bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-030",
+      "text": "How are you, again?",
+      "meaningVi": "Bạn khỏe không, lần nữa?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-031",
+      "text": "Two kind policemen ...",
+      "meaningVi": "Hai cảnh sát tốt bụng...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-032",
+      "text": "Two kind farmers ...",
+      "meaningVi": "Hai người nông dân tốt bụng...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-033",
+      "text": "Two kind teachers ...",
+      "meaningVi": "Hai giáo viên tốt bụng...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-034",
+      "text": "Two kind pupils ...",
+      "meaningVi": "Hai học sinh ngoan...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-word-011",
+      "text": "mum",
+      "meaningVi": "mẹ",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-012",
+      "text": "nurse",
+      "meaningVi": "y tá",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-013",
+      "text": "orange",
+      "meaningVi": "quả cam",
+      "type": "word"
+    },
+    {
+      "id": "book-4-word-014",
+      "text": "pen",
+      "meaningVi": "bút mực",
+      "type": "word"
+    },
+    {
+      "id": "book-4-sentence-035",
+      "text": "This is my mum, m, m, mum.",
+      "meaningVi": "Đây là mẹ của em, m, m, mẹ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-036",
+      "text": "This is my nurse, n, n, nurse.",
+      "meaningVi": "Đây là cô y tá của em, n, n, y tá.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-037",
+      "text": "This is my orange, o, o, orange.",
+      "meaningVi": "Đây là quả cam của em, o, o, cam.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-038",
+      "text": "This is my pen, p, p, pen.",
+      "meaningVi": "Đây là cây bút của em, p, p, bút.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-039",
+      "text": "What has the nurse got?",
+      "meaningVi": "Cô y tá có gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-040",
+      "text": "My mum is a nurse.",
+      "meaningVi": "Mẹ em là một y tá.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-041",
+      "text": "She's got an orange and a pen.",
+      "meaningVi": "Cô ấy có một quả cam và một cây bút.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-042",
+      "text": "She can eat the orange.",
+      "meaningVi": "Cô ấy có thể ăn quả cam.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-4-sentence-043",
+      "text": "She can write with the pen.",
+      "meaningVi": "Cô ấy có thể viết bằng cây bút.",
+      "type": "sentence"
+    }
+  ]
+}

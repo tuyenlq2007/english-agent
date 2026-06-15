@@ -1,0 +1,36 @@
+{
+  "id": "book-7",
+  "title": "Book 7",
+  "items": [
+    {
+      "id": "book-7-word-001",
+      "text": "environment",
+      "meaningVi": "môi trường",
+      "type": "word"
+    },
+    {
+      "id": "book-7-word-002",
+      "text": "pronunciation",
+      "meaningVi": "phát âm",
+      "type": "word"
+    },
+    {
+      "id": "book-7-word-003",
+      "text": "responsibility",
+      "meaningVi": "trách nhiệm",
+      "type": "word"
+    },
+    {
+      "id": "book-7-sentence-001",
+      "text": "Practice makes pronunciation clearer.",
+      "meaningVi": "Luyện tập giúp phát âm rõ hơn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-7-sentence-002",
+      "text": "I need to improve my English.",
+      "meaningVi": "Tôi cần cải thiện tiếng Anh của mình.",
+      "type": "sentence"
+    }
+  ]
+}

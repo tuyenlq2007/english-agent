@@ -4,32 +4,314 @@
   "items": [
     {
       "id": "book-3-word-001",
-      "text": "environment",
-      "meaningVi": "môi trường",
+      "text": "arms",
+      "meaningVi": "cánh tay",
       "type": "word"
     },
     {
       "id": "book-3-word-002",
-      "text": "pronunciation",
-      "meaningVi": "phát âm",
+      "text": "nose",
+      "meaningVi": "mũi",
       "type": "word"
     },
     {
       "id": "book-3-word-003",
-      "text": "responsibility",
-      "meaningVi": "trách nhiệm",
+      "text": "face",
+      "meaningVi": "khuôn mặt",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-004",
+      "text": "legs",
+      "meaningVi": "chân",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-005",
+      "text": "ears",
+      "meaningVi": "tai",
       "type": "word"
     },
     {
       "id": "book-3-sentence-001",
-      "text": "Practice makes pronunciation clearer.",
-      "meaningVi": "Luyện tập giúp phát âm rõ hơn.",
+      "text": "Let's put on sun cream.",
+      "meaningVi": "Chúng ta hãy bôi kem chống nắng nào.",
       "type": "sentence"
     },
     {
       "id": "book-3-sentence-002",
-      "text": "I need to improve my English.",
-      "meaningVi": "Tôi cần cải thiện tiếng Anh của mình.",
+      "text": "First, my arms.",
+      "meaningVi": "Đầu tiên là cánh tay của tớ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-003",
+      "text": "Put it on your arms.",
+      "meaningVi": "Hãy bôi nó lên cánh tay của cậu.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-004",
+      "text": "These are my arms.",
+      "meaningVi": "Đây là cánh tay của tớ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-005",
+      "text": "Now, my nose.",
+      "meaningVi": "Bây giờ là mũi của tớ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-006",
+      "text": "This is my nose.",
+      "meaningVi": "Đây là mũi của tớ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-007",
+      "text": "That's right.",
+      "meaningVi": "Đúng rồi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-008",
+      "text": "Here's the sun cream.",
+      "meaningVi": "Đây là kem chống nắng.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-009",
+      "text": "Put it on your arms, your nose, your face and your legs.",
+      "meaningVi": "Hãy bôi nó lên cánh tay, mũi, mặt và chân của cậu.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-010",
+      "text": "OK, Rosy.",
+      "meaningVi": "Được rồi, Rosy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-011",
+      "text": "Look, Rosy!",
+      "meaningVi": "Nhìn này, Rosy!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-012",
+      "text": "Oh no!",
+      "meaningVi": "Ôi không!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-word-006",
+      "text": "one arm",
+      "meaningVi": "một cánh tay",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-007",
+      "text": "two arms",
+      "meaningVi": "hai cánh tay",
+      "type": "word"
+    },
+    {
+      "id": "book-3-sentence-013",
+      "text": "These are my arms.",
+      "meaningVi": "Đây là cánh tay của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-014",
+      "text": "This is my nose.",
+      "meaningVi": "Đây là mũi của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-015",
+      "text": "These are my legs.",
+      "meaningVi": "Đây là chân của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-016",
+      "text": "These are my arms.",
+      "meaningVi": "Đây là cánh tay của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-017",
+      "text": "This is my face.",
+      "meaningVi": "Đây là khuôn mặt của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-018",
+      "text": "This is my nose.",
+      "meaningVi": "Đây là mũi của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-019",
+      "text": "These are my ears.",
+      "meaningVi": "Đây là đôi tai của tôi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-word-008",
+      "text": "fingers",
+      "meaningVi": "ngón tay",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-009",
+      "text": "hands",
+      "meaningVi": "bàn tay",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-010",
+      "text": "eyes",
+      "meaningVi": "đôi mắt",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-011",
+      "text": "eyebrows",
+      "meaningVi": "lông mày",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-012",
+      "text": "shoulders",
+      "meaningVi": "vai",
+      "type": "word"
+    },
+    {
+      "id": "book-3-sentence-020",
+      "text": "Ten fingers on my hands,",
+      "meaningVi": "Mười ngón tay trên đôi bàn tay của em,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-021",
+      "text": "On my hands.",
+      "meaningVi": "Trên đôi bàn tay của em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-022",
+      "text": "Ten fingers on my hands,",
+      "meaningVi": "Mười ngón tay trên đôi bàn tay của em,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-023",
+      "text": "On my hands.",
+      "meaningVi": "Trên đôi bàn tay của em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-024",
+      "text": "Two eyes, one nose,",
+      "meaningVi": "Hai mắt, một mũi,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-025",
+      "text": "All on my face.",
+      "meaningVi": "Tất cả đều ở trên khuôn mặt của em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-026",
+      "text": "Ten fingers on my hands,",
+      "meaningVi": "Mười ngón tay trên đôi bàn tay của em,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-027",
+      "text": "On my hands.",
+      "meaningVi": "Trên đôi bàn tay của em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-word-013",
+      "text": "ink",
+      "meaningVi": "mực",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-014",
+      "text": "jam",
+      "meaningVi": "mứt",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-015",
+      "text": "kite",
+      "meaningVi": "cánh diều",
+      "type": "word"
+    },
+    {
+      "id": "book-3-word-016",
+      "text": "lion",
+      "meaningVi": "sư tử",
+      "type": "word"
+    },
+    {
+      "id": "book-3-sentence-028",
+      "text": "Look at the ink, i, i, ink.",
+      "meaningVi": "Nhìn lọ mực này, i, i, mực.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-029",
+      "text": "Look at the jam, j, j, jam.",
+      "meaningVi": "Nhìn lọ mứt này, j, j, mứt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-030",
+      "text": "Look at the kite, k, k, kite.",
+      "meaningVi": "Nhìn cánh diều này, k, k, diều.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-031",
+      "text": "Look at the lion, l, l, lion.",
+      "meaningVi": "Nhìn con sư tử này, l, l, sư tử.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-032",
+      "text": "What has the lion got?",
+      "meaningVi": "Con sư tử có gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-033",
+      "text": "The lion's got some jam.",
+      "meaningVi": "Con sư tử có một ít mứt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-034",
+      "text": "The lion's got some ink.",
+      "meaningVi": "Con sư tử có một ít mực.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-035",
+      "text": "Look! Here is a kite.",
+      "meaningVi": "Nhìn kìa! Đây là một cánh diều.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-3-sentence-036",
+      "text": "Oops! The lion is a mess.",
+      "meaningVi": "Ôi! Con sư tử bẩn quá rồi.",
       "type": "sentence"
     }
   ]
