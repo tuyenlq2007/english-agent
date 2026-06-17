@@ -292,26 +292,26 @@
     },
     {
       "id": "book-4-sentence-035",
-      "text": "This is my mum, m, m, mum.",
-      "meaningVi": "Đây là mẹ của em, m, m, mẹ.",
+      "text": "This is my mum",
+      "meaningVi": "Đây là mẹ của em.",
       "type": "sentence"
     },
     {
       "id": "book-4-sentence-036",
-      "text": "This is my nurse, n, n, nurse.",
-      "meaningVi": "Đây là cô y tá của em, n, n, y tá.",
+      "text": "This is my nurse.",
+      "meaningVi": "Đây là cô y tá của em.",
       "type": "sentence"
     },
     {
       "id": "book-4-sentence-037",
-      "text": "This is my orange, o, o, orange.",
-      "meaningVi": "Đây là quả cam của em, o, o, cam.",
+      "text": "This is my orange",
+      "meaningVi": "Đây là quả cam của em",
       "type": "sentence"
     },
     {
       "id": "book-4-sentence-038",
-      "text": "This is my pen, p, p, pen.",
-      "meaningVi": "Đây là cây bút của em, p, p, bút.",
+      "text": "This is my pen",
+      "meaningVi": "Đây là cây bút của em",
       "type": "sentence"
     },
     {
