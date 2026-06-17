@@ -4,32 +4,338 @@
   "items": [
     {
       "id": "book-5-word-001",
-      "text": "environment",
-      "meaningVi": "môi trường",
+      "text": "seesaw",
+      "meaningVi": "bập bênh",
       "type": "word"
     },
     {
       "id": "book-5-word-002",
-      "text": "pronunciation",
-      "meaningVi": "phát âm",
+      "text": "slide",
+      "meaningVi": "cầu trượt",
       "type": "word"
     },
     {
       "id": "book-5-word-003",
-      "text": "responsibility",
-      "meaningVi": "trách nhiệm",
+      "text": "net",
+      "meaningVi": "lưới",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-004",
+      "text": "swing",
+      "meaningVi": "xích đu",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-005",
+      "text": "tree",
+      "meaningVi": "cây",
       "type": "word"
     },
     {
       "id": "book-5-sentence-001",
-      "text": "Practice makes pronunciation clearer.",
-      "meaningVi": "Luyện tập giúp phát âm rõ hơn.",
+      "text": "Oh no!",
+      "meaningVi": "Ôi không!",
       "type": "sentence"
     },
     {
       "id": "book-5-sentence-002",
-      "text": "I need to improve my English.",
-      "meaningVi": "Tôi cần cải thiện tiếng Anh của mình.",
+      "text": "Good try, Tim.",
+      "meaningVi": "Cố gắng tốt lắm, Tim.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-003",
+      "text": "Where's the ball?",
+      "meaningVi": "Quả bóng ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-004",
+      "text": "Is it under the seesaw?",
+      "meaningVi": "Nó có ở dưới bập bênh không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-005",
+      "text": "No, it isn't.",
+      "meaningVi": "Không, nó không ở đó.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-006",
+      "text": "Look! The ball's on the slide.",
+      "meaningVi": "Nhìn kìa! Quả bóng ở trên cầu trượt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-007",
+      "text": "Oh no! Look at the ball now.",
+      "meaningVi": "Ôi không! Bây giờ hãy nhìn quả bóng kìa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-008",
+      "text": "Goal!",
+      "meaningVi": "Vào rồi!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-009",
+      "text": "And now it's in the net!",
+      "meaningVi": "Và bây giờ nó ở trong lưới!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-010",
+      "text": "Where's the ball?",
+      "meaningVi": "Quả bóng ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-011",
+      "text": "It's in the net.",
+      "meaningVi": "Nó ở trong lưới.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-012",
+      "text": "Where's the ball?",
+      "meaningVi": "Quả bóng ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-013",
+      "text": "It's on the slide.",
+      "meaningVi": "Nó ở trên cầu trượt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-014",
+      "text": "Where's the ball?",
+      "meaningVi": "Quả bóng ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-015",
+      "text": "It's under the seesaw.",
+      "meaningVi": "Nó ở dưới bập bênh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-016",
+      "text": "Where's the ball?",
+      "meaningVi": "Quả bóng ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-017",
+      "text": "It's under the tree.",
+      "meaningVi": "Nó ở dưới gốc cây.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-word-006",
+      "text": "pool",
+      "meaningVi": "hồ bơi",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-007",
+      "text": "armbands",
+      "meaningVi": "phao tay",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-008",
+      "text": "ice cream",
+      "meaningVi": "kem",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-009",
+      "text": "frisbee",
+      "meaningVi": "đĩa bay",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-010",
+      "text": "climbing frame",
+      "meaningVi": "khung leo trèo",
+      "type": "word"
+    },
+    {
+      "id": "book-5-sentence-018",
+      "text": "At the park,",
+      "meaningVi": "Ở công viên,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-019",
+      "text": "It's so much fun.",
+      "meaningVi": "Thật là vui.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-020",
+      "text": "For you, for me, for everyone!",
+      "meaningVi": "Cho bạn, cho tôi, cho mọi người!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-021",
+      "text": "Play on the seesaw,",
+      "meaningVi": "Chơi trên bập bênh,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-022",
+      "text": "Play in the pool.",
+      "meaningVi": "Chơi trong hồ bơi.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-023",
+      "text": "Eat an ice cream,",
+      "meaningVi": "Ăn một cây kem,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-024",
+      "text": "It's nice and cool.",
+      "meaningVi": "Nó ngon và mát.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-025",
+      "text": "Play with a frisbee,",
+      "meaningVi": "Chơi với đĩa bay,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-026",
+      "text": "Play with a ball.",
+      "meaningVi": "Chơi với quả bóng.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-027",
+      "text": "Play on the slide,",
+      "meaningVi": "Chơi trên cầu trượt,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-028",
+      "text": "It's fun for all.",
+      "meaningVi": "Thật vui cho tất cả mọi người.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-029",
+      "text": "At the park,",
+      "meaningVi": "Ở công viên,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-030",
+      "text": "It's so much fun.",
+      "meaningVi": "Thật là vui.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-031",
+      "text": "For you, for me, for everyone!",
+      "meaningVi": "Cho bạn, cho tôi, cho mọi người!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-word-011",
+      "text": "queen",
+      "meaningVi": "nữ hoàng",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-012",
+      "text": "rabbit",
+      "meaningVi": "con thỏ",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-013",
+      "text": "sofa",
+      "meaningVi": "ghế sofa",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-014",
+      "text": "teddy",
+      "meaningVi": "gấu bông",
+      "type": "word"
+    },
+    {
+      "id": "book-5-word-015",
+      "text": "umbrella",
+      "meaningVi": "cái ô",
+      "type": "word"
+    },
+    {
+      "id": "book-5-sentence-032",
+      "text": "Where is the queen? Q, q, queen.",
+      "meaningVi": "Nữ hoàng ở đâu? Q, q, nữ hoàng.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-033",
+      "text": "Where is the rabbit? R, r, rabbit.",
+      "meaningVi": "Con thỏ ở đâu? R, r, thỏ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-034",
+      "text": "Where is the sofa? S, s, sofa.",
+      "meaningVi": "Ghế sofa ở đâu? S, s, sofa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-035",
+      "text": "Where is the teddy? T, t, teddy.",
+      "meaningVi": "Gấu bông ở đâu? T, t, gấu bông.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-036",
+      "text": "Where is the umbrella? U, u, umbrella.",
+      "meaningVi": "Cái ô ở đâu? U, u, ô.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-037",
+      "text": "What has the queen got?",
+      "meaningVi": "Nữ hoàng có gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-038",
+      "text": "The queen is on the sofa.",
+      "meaningVi": "Nữ hoàng ở trên ghế sofa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-039",
+      "text": "The queen has got a rabbit.",
+      "meaningVi": "Nữ hoàng có một con thỏ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-040",
+      "text": "The teddy is on the sofa.",
+      "meaningVi": "Con gấu bông ở trên ghế sofa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-5-sentence-041",
+      "text": "The teddy has got an umbrella.",
+      "meaningVi": "Con gấu bông có một cái ô.",
       "type": "sentence"
     }
   ]
