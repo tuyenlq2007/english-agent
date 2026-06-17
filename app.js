@@ -187,7 +187,7 @@ function speakCurrent() {
   if (!item) return;
   const token = (state.promptToken += 1);
   window.speechSynthesis.cancel();
-  el.agentMessage.textContent = `Nghĩa: ${item.meaningVi}. ${messages.listenRepeat}`;
+  el.agentMessage.textContent = `${item.meaningVi}. ${messages.listenRepeat}`;
   speak(
     item.text,
     "en-GB",
@@ -394,7 +394,7 @@ function render() {
   if (item) {
     el.itemType.textContent = `${book?.title || "Book"} / ${item.type}`;
     el.attemptCount.textContent = `${item.attempts} / ${maxAttempts} attempts`;
-    el.meaningText.textContent = `Nghĩa: ${item.meaningVi}`;
+    el.meaningText.textContent = `${item.meaningVi}`;
     el.targetText.textContent = item.text;
   } else {
     el.itemType.textContent = state.loadingBooks ? "loading" : "done";
