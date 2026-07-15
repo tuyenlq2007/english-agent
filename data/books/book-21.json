@@ -1,0 +1,84 @@
+{
+  "id": "book-21",
+  "title": "Book 21",
+  "items": [
+    {
+      "id": "book-21-word-001",
+      "text": "hello",
+      "meaningVi": "xin chào",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-002",
+      "text": "hi",
+      "meaningVi": "xin chào",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-003",
+      "text": "bye",
+      "meaningVi": "tạm biệt (với bạn bè hoặc trẻ em)",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-004",
+      "text": "goodbye",
+      "meaningVi": "tạm biệt (với người lớn)",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-005",
+      "text": "thank you",
+      "meaningVi": "cảm ơn",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-006",
+      "text": "I",
+      "meaningVi": "tôi",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-007",
+      "text": "you",
+      "meaningVi": "bạn",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-008",
+      "text": "name",
+      "meaningVi": "tên",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-009",
+      "text": "how",
+      "meaningVi": "như thế nào",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-010",
+      "text": "boy",
+      "meaningVi": "bé trai",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-011",
+      "text": "ball",
+      "meaningVi": "quả bóng",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-012",
+      "text": "house",
+      "meaningVi": "ngôi nhà",
+      "type": "word"
+    },
+    {
+      "id": "book-21-word-013",
+      "text": "hot",
+      "meaningVi": "nóng",
+      "type": "word"
+    }
+  ]
+}
