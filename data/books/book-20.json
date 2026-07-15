@@ -1,0 +1,223 @@
+{
+  "id": "book-20",
+  "title": "Book 20",
+  "items": [
+    {
+      "id": "book-20-word-001",
+      "text": "one",
+      "meaningVi": "số một",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-002",
+      "text": "two",
+      "meaningVi": "số hai",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-003",
+      "text": "three",
+      "meaningVi": "số ba",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-004",
+      "text": "four",
+      "meaningVi": "số bốn",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-005",
+      "text": "five",
+      "meaningVi": "số năm",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-006",
+      "text": "six",
+      "meaningVi": "số sáu",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-007",
+      "text": "seven",
+      "meaningVi": "số bảy",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-008",
+      "text": "eight",
+      "meaningVi": "số tám",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-009",
+      "text": "nine",
+      "meaningVi": "số chín",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-010",
+      "text": "ten",
+      "meaningVi": "số mười",
+      "type": "word"
+    },
+
+    {
+      "id": "book-20-word-011",
+      "text": "apple",
+      "meaningVi": "quả táo",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-012",
+      "text": "ball",
+      "meaningVi": "quả bóng",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-013",
+      "text": "cake",
+      "meaningVi": "bánh ngọt",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-014",
+      "text": "doll",
+      "meaningVi": "búp bê",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-015",
+      "text": "egg",
+      "meaningVi": "quả trứng",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-016",
+      "text": "flower",
+      "meaningVi": "bông hoa",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-017",
+      "text": "grapes",
+      "meaningVi": "nho",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-018",
+      "text": "hat",
+      "meaningVi": "cái mũ",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-019",
+      "text": "ink",
+      "meaningVi": "mực",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-020",
+      "text": "jug",
+      "meaningVi": "bình nước",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-021",
+      "text": "kite",
+      "meaningVi": "cánh diều",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-022",
+      "text": "lamp",
+      "meaningVi": "đèn",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-023",
+      "text": "mango",
+      "meaningVi": "quả xoài",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-024",
+      "text": "net",
+      "meaningVi": "lưới",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-025",
+      "text": "orange",
+      "meaningVi": "quả cam",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-026",
+      "text": "pencil",
+      "meaningVi": "bút chì",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-027",
+      "text": "quail",
+      "meaningVi": "chim cút",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-028",
+      "text": "ring",
+      "meaningVi": "chiếc nhẫn",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-029",
+      "text": "sun",
+      "meaningVi": "mặt trời",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-030",
+      "text": "tree",
+      "meaningVi": "cây",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-031",
+      "text": "umbrella",
+      "meaningVi": "cái ô",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-032",
+      "text": "van",
+      "meaningVi": "xe tải nhỏ",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-033",
+      "text": "watch",
+      "meaningVi": "đồng hồ đeo tay",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-034",
+      "text": "X-mas tree",
+      "meaningVi": "cây thông Noel",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-035",
+      "text": "yo-yo",
+      "meaningVi": "đồ chơi yo-yo",
+      "type": "word"
+    },
+    {
+      "id": "book-20-word-036",
+      "text": "zip",
+      "meaningVi": "khóa kéo",
+      "type": "word"
+    }
+  ]
+}
