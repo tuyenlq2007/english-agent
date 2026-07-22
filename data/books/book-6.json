@@ -4,32 +4,314 @@
   "items": [
     {
       "id": "book-6-word-001",
-      "text": "environment",
-      "meaningVi": "môi trường",
+      "text": "mum",
+      "meaningVi": "mẹ",
       "type": "word"
     },
     {
       "id": "book-6-word-002",
-      "text": "pronunciation",
-      "meaningVi": "phát âm",
+      "text": "dad",
+      "meaningVi": "bố",
       "type": "word"
     },
     {
       "id": "book-6-word-003",
-      "text": "responsibility",
-      "meaningVi": "trách nhiệm",
+      "text": "sister",
+      "meaningVi": "chị gái / em gái",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-004",
+      "text": "brother",
+      "meaningVi": "anh trai / em trai",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-005",
+      "text": "grandma",
+      "meaningVi": "bà",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-006",
+      "text": "grandpa",
+      "meaningVi": "ông",
       "type": "word"
     },
     {
       "id": "book-6-sentence-001",
-      "text": "Practice makes pronunciation clearer.",
-      "meaningVi": "Luyện tập giúp phát âm rõ hơn.",
+      "text": "Let's find Grandma and the others.",
+      "meaningVi": "Hãy đi tìm bà và mọi người.",
       "type": "sentence"
     },
     {
       "id": "book-6-sentence-002",
-      "text": "I need to improve my English.",
-      "meaningVi": "Tôi cần cải thiện tiếng Anh của mình.",
+      "text": "Look. This is Mum's book.",
+      "meaningVi": "Nhìn này. Đây là quyển sách của mẹ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-003",
+      "text": "And this is Billy's teddy.",
+      "meaningVi": "Và đây là gấu bông của Billy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-004",
+      "text": "And this is Grandma's umbrella.",
+      "meaningVi": "Và đây là chiếc ô của bà.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-005",
+      "text": "But where are they?",
+      "meaningVi": "Nhưng họ ở đâu nhỉ?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-006",
+      "text": "I don't know.",
+      "meaningVi": "Tớ không biết.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-007",
+      "text": "Look, ice creams for you!",
+      "meaningVi": "Nhìn này, kem dành cho các con đây!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-008",
+      "text": "Ah, thank you!",
+      "meaningVi": "À, cảm ơn!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-009",
+      "text": "This is Mum's book.",
+      "meaningVi": "Đây là quyển sách của mẹ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-010",
+      "text": "This is Billy's teddy.",
+      "meaningVi": "Đây là gấu bông của Billy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-011",
+      "text": "It's Rosy's kite.",
+      "meaningVi": "Đó là chiếc diều của Rosy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-012",
+      "text": "It's Mum's book.",
+      "meaningVi": "Đó là quyển sách của mẹ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-013",
+      "text": "It's Grandma's umbrella.",
+      "meaningVi": "Đó là chiếc ô của bà.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-014",
+      "text": "It's Dad's pen.",
+      "meaningVi": "Đó là cây bút của bố.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-015",
+      "text": "It's Grandpa's bag.",
+      "meaningVi": "Đó là chiếc túi của ông.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-word-007",
+      "text": "aunt",
+      "meaningVi": "cô / dì / thím / mợ",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-008",
+      "text": "uncle",
+      "meaningVi": "chú / bác / cậu",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-009",
+      "text": "cousin",
+      "meaningVi": "anh chị em họ",
+      "type": "word"
+    },
+    {
+      "id": "book-6-sentence-016",
+      "text": "Here are more people in my family.",
+      "meaningVi": "Đây là thêm những người trong gia đình em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-017",
+      "text": "In my family,",
+      "meaningVi": "Trong gia đình em,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-018",
+      "text": "Lots of love,",
+      "meaningVi": "Có thật nhiều tình yêu thương,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-019",
+      "text": "For you and for me.",
+      "meaningVi": "Cho bạn và cho em.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-020",
+      "text": "Mum and dad,",
+      "meaningVi": "Mẹ và bố,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-021",
+      "text": "Sister and brother,",
+      "meaningVi": "Chị (em) gái và anh (em) trai,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-022",
+      "text": "Grandma and grandpa,",
+      "meaningVi": "Bà và ông,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-023",
+      "text": "Not like any other.",
+      "meaningVi": "Không giống bất kỳ ai khác.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-024",
+      "text": "Aunt and uncle,",
+      "meaningVi": "Cô (dì) và chú (cậu),",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-025",
+      "text": "And cousins too,",
+      "meaningVi": "Và cả anh chị em họ nữa,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-026",
+      "text": "My family helps me,",
+      "meaningVi": "Gia đình giúp đỡ em,",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-027",
+      "text": "My family helps you.",
+      "meaningVi": "Gia đình giúp đỡ bạn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-028",
+      "text": "In my family, ...",
+      "meaningVi": "Trong gia đình em...",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-word-010",
+      "text": "van",
+      "meaningVi": "xe tải nhỏ",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-011",
+      "text": "window",
+      "meaningVi": "cửa sổ",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-012",
+      "text": "box",
+      "meaningVi": "cái hộp",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-013",
+      "text": "yo-yo",
+      "meaningVi": "đồ chơi yo-yo",
+      "type": "word"
+    },
+    {
+      "id": "book-6-word-014",
+      "text": "zebra",
+      "meaningVi": "ngựa vằn",
+      "type": "word"
+    },
+    {
+      "id": "book-6-sentence-029",
+      "text": "Here is a van, v, v, van.",
+      "meaningVi": "Đây là một chiếc xe tải nhỏ, v, v, van.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-030",
+      "text": "Here is a window, w, w, window.",
+      "meaningVi": "Đây là một cửa sổ, w, w, window.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-031",
+      "text": "Here is a box, x, x, box.",
+      "meaningVi": "Đây là một cái hộp, x, x, box.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-032",
+      "text": "Here is a yo-yo, y, y, yo-yo.",
+      "meaningVi": "Đây là một chiếc yo-yo, y, y, yo-yo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-033",
+      "text": "Here is a zebra, z, z, zebra.",
+      "meaningVi": "Đây là một con ngựa vằn, z, z, zebra.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-034",
+      "text": "What is in the van?",
+      "meaningVi": "Có gì trong chiếc xe tải nhỏ?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-035",
+      "text": "Look out of the window.",
+      "meaningVi": "Hãy nhìn ra ngoài cửa sổ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-036",
+      "text": "What can you see?",
+      "meaningVi": "Bạn có thể nhìn thấy gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-037",
+      "text": "I can see a zebra in a van.",
+      "meaningVi": "Em có thể nhìn thấy một con ngựa vằn trong một chiếc xe tải nhỏ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-6-sentence-038",
+      "text": "And a yo-yo on a box.",
+      "meaningVi": "Và một chiếc yo-yo ở trên một cái hộp.",
       "type": "sentence"
     }
   ]
