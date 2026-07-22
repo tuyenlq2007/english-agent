@@ -1,0 +1,78 @@
+{
+  "id": "book-22",
+  "title": "Book 22",
+  "items": [
+    {
+      "id": "book-22-word-001",
+      "text": "name",
+      "meaningVi": "tên",
+      "type": "word"
+    },
+    {
+      "id": "book-22-word-002",
+      "text": "alphabet",
+      "meaningVi": "bảng chữ cái",
+      "type": "word"
+    },
+    {
+      "id": "book-22-word-003",
+      "text": "song",
+      "meaningVi": "bài hát",
+      "type": "word"
+    },
+    {
+      "id": "book-22-word-004",
+      "text": "what",
+      "meaningVi": "gì, cái gì",
+      "type": "word"
+    },
+    {
+      "id": "book-22-word-005",
+      "text": "my",
+      "meaningVi": "của tôi",
+      "type": "word"
+    },
+    {
+      "id": "book-22-word-006",
+      "text": "your",
+      "meaningVi": "của bạn",
+      "type": "word"
+    },
+    {
+      "id": "book-22-sentence-001",
+      "text": "My name is Trang.",
+      "meaningVi": "Tên của tôi là Trang.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-22-sentence-002",
+      "text": "Let's learn by heart the alphabet.",
+      "meaningVi": "Hãy học thuộc lòng bảng chữ cái.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-22-sentence-003",
+      "text": "Can you sing this song?",
+      "meaningVi": "Bạn có thể hát bài hát này không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-22-sentence-004",
+      "text": "What's your name?",
+      "meaningVi": "Tên bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-22-sentence-005",
+      "text": "My name is Linda.",
+      "meaningVi": "Tên của mình là Linda.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-22-sentence-006",
+      "text": "Your school is nice.",
+      "meaningVi": "Trường của bạn thật đẹp.",
+      "type": "sentence"
+    }
+  ]
+}
