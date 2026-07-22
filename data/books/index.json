@@ -68,5 +68,10 @@
     "id": "book-21",
     "title": "Book 21",
     "file": "book-21.json"
+  },
+  {
+    "id": "book-22",
+    "title": "Book 22",
+    "file": "book-22.json"
   }
 ]
