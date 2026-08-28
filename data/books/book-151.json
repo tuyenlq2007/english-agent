@@ -1,0 +1,500 @@
+{
+  "id": "book-151",
+  "title": "Book 151",
+  "items": [
+    {
+      "id": "book-151-sentence-001",
+      "text": "Hello. I'm Ben. Nice to meet you.",
+      "meaningVi": "Xin chào. Mình là Ben. Rất vui được gặp bạn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-002",
+      "text": "Hello, Ben. I'm Lan. Nice to meet you, too.",
+      "meaningVi": "Xin chào, Ben. Mình là Lan. Mình cũng rất vui được gặp bạn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-003",
+      "text": "Can you tell me about yourself, Lan?",
+      "meaningVi": "Lan, bạn có thể kể cho mình về bản thân bạn không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-004",
+      "text": "Well, I'm in Class 5C. I live in the countryside.",
+      "meaningVi": "Mình học lớp 5C. Mình sống ở vùng nông thôn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-005",
+      "text": "I'm in Class 5B. I live in the city.",
+      "meaningVi": "Mình học lớp 5B. Mình sống ở thành phố.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-word-001",
+      "text": "Class 5A",
+      "meaningVi": "lớp 5A",
+      "type": "word"
+    },
+    {
+      "id": "book-151-word-002",
+      "text": "Class 5B",
+      "meaningVi": "lớp 5B",
+      "type": "word"
+    },
+    {
+      "id": "book-151-word-003",
+      "text": "city",
+      "meaningVi": "thành phố",
+      "type": "word"
+    },
+    {
+      "id": "book-151-word-004",
+      "text": "countryside",
+      "meaningVi": "vùng nông thôn",
+      "type": "word"
+    },
+    {
+      "id": "book-151-sentence-006",
+      "text": "Can you tell me about yourself?",
+      "meaningVi": "Bạn có thể kể cho mình về bản thân bạn không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-007",
+      "text": "My name's Bao.",
+      "meaningVi": "Tên mình là Bảo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-008",
+      "text": "I live in the countryside.",
+      "meaningVi": "Mình sống ở vùng nông thôn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-009",
+      "text": "Can you tell me about yourself?",
+      "meaningVi": "Bạn có thể kể cho mình về bản thân bạn không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-010",
+      "text": "Well, I'm Minh.",
+      "meaningVi": "Mình là Minh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-011",
+      "text": "Can you tell me about yourself?",
+      "meaningVi": "Bạn có thể kể cho mình về bản thân bạn không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-012",
+      "text": "Sure. I'm Phong.",
+      "meaningVi": "Được chứ. Mình là Phong.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-013",
+      "text": "Can you tell me about yourself?",
+      "meaningVi": "Bạn có thể kể cho mình về bản thân bạn không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-014",
+      "text": "Well, I'm Andy.",
+      "meaningVi": "Mình là Andy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-015",
+      "text": "I'm Lisa.",
+      "meaningVi": "Mình là Lisa.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-016",
+      "text": "I'm in Grade 3.",
+      "meaningVi": "Mình học lớp 3.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-017",
+      "text": "I live in the countryside.",
+      "meaningVi": "Mình sống ở vùng nông thôn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-018",
+      "text": "Where do you live?",
+      "meaningVi": "Bạn sống ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-019",
+      "text": "I'm Alan.",
+      "meaningVi": "Mình là Alan.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-020",
+      "text": "I'm in Grade 5.",
+      "meaningVi": "Mình học lớp 5.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-021",
+      "text": "I live in the city.",
+      "meaningVi": "Mình sống ở thành phố.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-022",
+      "text": "Where do you live?",
+      "meaningVi": "Bạn sống ở đâu?",
+      "type": "sentence"
+    },
+
+    {
+      "id": "book-151-sentence-023",
+      "text": "Where are you going, Mary?",
+      "meaningVi": "Mary, bạn đang đi đâu vậy?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-024",
+      "text": "I'm going to the sports centre.",
+      "meaningVi": "Mình đang đi đến trung tâm thể thao.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-025",
+      "text": "What's your favourite sport?",
+      "meaningVi": "Môn thể thao yêu thích của bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-026",
+      "text": "My favourite sport is swimming.",
+      "meaningVi": "Môn thể thao yêu thích của mình là bơi lội.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-027",
+      "text": "It's basketball. What about you?",
+      "meaningVi": "Đó là bóng rổ. Còn bạn thì sao?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-word-005",
+      "text": "table tennis",
+      "meaningVi": "bóng bàn",
+      "type": "word"
+    },
+    {
+      "id": "book-151-word-006",
+      "text": "pink",
+      "meaningVi": "màu hồng",
+      "type": "word"
+    },
+    {
+      "id": "book-151-word-007",
+      "text": "dolphin",
+      "meaningVi": "cá heo",
+      "type": "word"
+    },
+    {
+      "id": "book-151-word-008",
+      "text": "sandwich",
+      "meaningVi": "bánh mì kẹp",
+      "type": "word"
+    },
+    {
+      "id": "book-151-sentence-028",
+      "text": "Where were you yesterday?",
+      "meaningVi": "Hôm qua bạn đã ở đâu?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-029",
+      "text": "I was at the zoo.",
+      "meaningVi": "Mình đã ở sở thú.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-030",
+      "text": "What's your favourite animal?",
+      "meaningVi": "Con vật yêu thích của bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-031",
+      "text": "Because it jumps and dances beautifully.",
+      "meaningVi": "Bởi vì nó nhảy và múa rất đẹp.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-032",
+      "text": "Do you like pizza, too?",
+      "meaningVi": "Bạn cũng thích pizza phải không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-033",
+      "text": "What's your favourite food?",
+      "meaningVi": "Món ăn yêu thích của bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-034",
+      "text": "A sandwich?",
+      "meaningVi": "Một chiếc bánh mì kẹp à?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-035",
+      "text": "Yes. I love sandwiches.",
+      "meaningVi": "Đúng vậy. Mình rất thích bánh mì kẹp.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-036",
+      "text": "Find someone who likes dolphins.",
+      "meaningVi": "Hãy tìm một người thích cá heo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-037",
+      "text": "What's your favourite animal?",
+      "meaningVi": "Con vật yêu thích của bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-038",
+      "text": "It's a dolphin.",
+      "meaningVi": "Đó là cá heo.",
+      "type": "sentence"
+    },
+
+    {
+      "id": "book-151-word-009",
+      "text": "dolphin",
+      "meaningVi": "cá heo",
+      "type": "word"
+    },
+    {
+      "id": "book-151-sentence-039",
+      "text": "I like dolphins.",
+      "meaningVi": "Mình thích cá heo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-word-010",
+      "text": "tennis",
+      "meaningVi": "quần vợt",
+      "type": "word"
+    },
+    {
+      "id": "book-151-sentence-040",
+      "text": "He plays tennis on Sundays.",
+      "meaningVi": "Cậu ấy chơi quần vợt vào các ngày Chủ nhật.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-041",
+      "text": "What's your favourite animal?",
+      "meaningVi": "Con vật yêu thích của bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-042",
+      "text": "Do you like pandas?",
+      "meaningVi": "Bạn có thích gấu trúc không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-043",
+      "text": "No, I don't.",
+      "meaningVi": "Không, mình không thích.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-044",
+      "text": "I don't like pandas.",
+      "meaningVi": "Mình không thích gấu trúc.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-045",
+      "text": "I like dolphins.",
+      "meaningVi": "Mình thích cá heo.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-046",
+      "text": "What's your favourite sport?",
+      "meaningVi": "Môn thể thao yêu thích của bạn là gì?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-047",
+      "text": "Do you like tennis?",
+      "meaningVi": "Bạn có thích quần vợt không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-048",
+      "text": "No, I don't.",
+      "meaningVi": "Không, mình không thích.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-049",
+      "text": "I don't like tennis.",
+      "meaningVi": "Mình không thích quần vợt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-050",
+      "text": "I like football.",
+      "meaningVi": "Mình thích bóng đá.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-051",
+      "text": "Hi, all. Let me tell you a little bit about myself.",
+      "meaningVi": "Chào mọi người. Hãy để mình kể một chút về bản thân.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-052",
+      "text": "My name's Tom.",
+      "meaningVi": "Tên mình là Tom.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-053",
+      "text": "I'm in Grade 5.",
+      "meaningVi": "Mình học lớp 5.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-054",
+      "text": "I live in a big city.",
+      "meaningVi": "Mình sống ở một thành phố lớn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-055",
+      "text": "My favourite subject is maths.",
+      "meaningVi": "Môn học yêu thích của mình là toán.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-056",
+      "text": "My favourite food is fish and chips.",
+      "meaningVi": "Món ăn yêu thích của mình là cá và khoai tây chiên.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-057",
+      "text": "I'm a big fan of baseball.",
+      "meaningVi": "Mình rất yêu thích bóng chày.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-058",
+      "text": "It's really fun.",
+      "meaningVi": "Nó thực sự rất vui.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-059",
+      "text": "Hello, everyone. Let me introduce myself.",
+      "meaningVi": "Xin chào mọi người. Hãy để mình giới thiệu bản thân.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-060",
+      "text": "My full name's Le Mai Lan.",
+      "meaningVi": "Họ và tên đầy đủ của mình là Lê Mai Lan.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-061",
+      "text": "You can call me Lan.",
+      "meaningVi": "Bạn có thể gọi mình là Lan.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-062",
+      "text": "I'm in Class 5C.",
+      "meaningVi": "Mình học lớp 5C.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-063",
+      "text": "I live in the countryside.",
+      "meaningVi": "Mình sống ở vùng nông thôn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-064",
+      "text": "I love pets.",
+      "meaningVi": "Mình yêu thú cưng.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-065",
+      "text": "I have two kittens and a rabbit.",
+      "meaningVi": "Mình có hai chú mèo con và một con thỏ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-066",
+      "text": "My favourite colour is pink.",
+      "meaningVi": "Màu yêu thích của mình là màu hồng.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-067",
+      "text": "My favourite food is chicken pho.",
+      "meaningVi": "Món ăn yêu thích của mình là phở gà.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-068",
+      "text": "Yum!",
+      "meaningVi": "Ngon quá!",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-069",
+      "text": "My favourite colour is red.",
+      "meaningVi": "Màu yêu thích của mình là màu đỏ.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-070",
+      "text": "My name is Alan.",
+      "meaningVi": "Tên mình là Alan.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-071",
+      "text": "What about you?",
+      "meaningVi": "Còn bạn thì sao?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-151-sentence-072",
+      "text": "What are your favourite things?",
+      "meaningVi": "Những thứ yêu thích của bạn là gì?",
+      "type": "sentence"
+    }
+  ]
+}
