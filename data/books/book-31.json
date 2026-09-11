@@ -1,0 +1,276 @@
+{
+  "id": "book-31",
+  "title": "Book 31",
+  "items": [
+    {
+      "id": "book-31-sentence-001",
+      "text": "Hello. I'm Ben.",
+      "meaningVi": "Xin chào. Mình là Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-002",
+      "text": "Hi, Ben. I'm Mai.",
+      "meaningVi": "Chào Ben. Mình là Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-003",
+      "text": "Hi. I'm Minh.",
+      "meaningVi": "Chào. Mình là Minh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-004",
+      "text": "Hello, Minh. I'm Lucy.",
+      "meaningVi": "Xin chào Minh. Mình là Lucy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-005",
+      "text": "Hello. Hello.",
+      "meaningVi": "Xin chào. Xin chào.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-006",
+      "text": "I'm Ben.",
+      "meaningVi": "Mình là Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-007",
+      "text": "Hi, Ben. Hi, Ben.",
+      "meaningVi": "Chào Ben. Chào Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-008",
+      "text": "I'm Mai.",
+      "meaningVi": "Mình là Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-009",
+      "text": "Hello. Hello.",
+      "meaningVi": "Xin chào. Xin chào.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-010",
+      "text": "I'm Minh.",
+      "meaningVi": "Mình là Minh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-011",
+      "text": "Hi, Minh. Hi, Minh.",
+      "meaningVi": "Chào Minh. Chào Minh.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-012",
+      "text": "I'm Lucy.",
+      "meaningVi": "Mình là Lucy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-013",
+      "text": "Hi, Mai. How are you?",
+      "meaningVi": "Chào Mai. Bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-014",
+      "text": "Fine, thank you.",
+      "meaningVi": "Mình khỏe, cảm ơn bạn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-015",
+      "text": "Goodbye, Mai.",
+      "meaningVi": "Tạm biệt Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-016",
+      "text": "Bye, Ben.",
+      "meaningVi": "Tạm biệt Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-017",
+      "text": "Hi. How are you?",
+      "meaningVi": "Chào. Bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-018",
+      "text": "Goodbye.",
+      "meaningVi": "Tạm biệt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-019",
+      "text": "Bye.",
+      "meaningVi": "Tạm biệt.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-020",
+      "text": "Hi. I'm Mai.",
+      "meaningVi": "Chào. Mình là Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-021",
+      "text": "How are you, Mai?",
+      "meaningVi": "Mai, bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-022",
+      "text": "Hello, Mai. I'm Ben.",
+      "meaningVi": "Xin chào Mai. Mình là Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-word-001",
+      "text": "hello",
+      "meaningVi": "xin chào",
+      "type": "word"
+    },
+    {
+      "id": "book-31-sentence-023",
+      "text": "Hello, Ben.",
+      "meaningVi": "Xin chào, Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-word-002",
+      "text": "bye",
+      "meaningVi": "tạm biệt",
+      "type": "word"
+    },
+    {
+      "id": "book-31-sentence-024",
+      "text": "Bye, Ben.",
+      "meaningVi": "Tạm biệt, Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-025",
+      "text": "Hello. I'm Ben.",
+      "meaningVi": "Xin chào. Mình là Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-026",
+      "text": "Hello. I'm Ben.",
+      "meaningVi": "Xin chào. Mình là Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-027",
+      "text": "Hi, Ben. Hi, Ben.",
+      "meaningVi": "Chào Ben. Chào Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-028",
+      "text": "I'm Mai. I'm Mai.",
+      "meaningVi": "Mình là Mai. Mình là Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-029",
+      "text": "How are you, Ben?",
+      "meaningVi": "Ben, bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-030",
+      "text": "Fine, thank you.",
+      "meaningVi": "Mình khỏe, cảm ơn bạn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-031",
+      "text": "Bye, Ben. Bye, Ben.",
+      "meaningVi": "Tạm biệt Ben. Tạm biệt Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-032",
+      "text": "Bye, Mai. Bye, Mai.",
+      "meaningVi": "Tạm biệt Mai. Tạm biệt Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-033",
+      "text": "Hi. I'm Ben.",
+      "meaningVi": "Chào. Mình là Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-034",
+      "text": "Hello, Ben. I'm Lucy.",
+      "meaningVi": "Xin chào Ben. Mình là Lucy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-035",
+      "text": "Hello, Mai.",
+      "meaningVi": "Xin chào Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-036",
+      "text": "Hi, Ben.",
+      "meaningVi": "Chào Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-037",
+      "text": "Goodbye, Ben.",
+      "meaningVi": "Tạm biệt Ben.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-038",
+      "text": "Bye, Mai.",
+      "meaningVi": "Tạm biệt Mai.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-039",
+      "text": "How are you?",
+      "meaningVi": "Bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-040",
+      "text": "Fine, thank you.",
+      "meaningVi": "Mình khỏe, cảm ơn bạn.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-041",
+      "text": "Hi. I'm Lucy.",
+      "meaningVi": "Chào. Mình là Lucy.",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-042",
+      "text": "How are you?",
+      "meaningVi": "Bạn khỏe không?",
+      "type": "sentence"
+    },
+    {
+      "id": "book-31-sentence-043",
+      "text": "Goodbye.",
+      "meaningVi": "Tạm biệt.",
+      "type": "sentence"
+    }
+  ]
+}
