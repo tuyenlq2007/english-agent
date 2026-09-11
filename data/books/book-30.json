@@ -1,0 +1,222 @@
+{
+  "id": "book-30",
+  "title": "Book 30",
+  "items": [
+    {
+      "id": "book-30-word-001",
+      "text": "one",
+      "meaningVi": "số một",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-002",
+      "text": "two",
+      "meaningVi": "số hai",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-003",
+      "text": "three",
+      "meaningVi": "số ba",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-004",
+      "text": "four",
+      "meaningVi": "số bốn",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-005",
+      "text": "five",
+      "meaningVi": "số năm",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-006",
+      "text": "six",
+      "meaningVi": "số sáu",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-007",
+      "text": "seven",
+      "meaningVi": "số bảy",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-008",
+      "text": "eight",
+      "meaningVi": "số tám",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-009",
+      "text": "nine",
+      "meaningVi": "số chín",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-010",
+      "text": "ten",
+      "meaningVi": "số mười",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-011",
+      "text": "A",
+      "meaningVi": "chữ A",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-012",
+      "text": "B",
+      "meaningVi": "chữ B",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-013",
+      "text": "C",
+      "meaningVi": "chữ C",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-014",
+      "text": "D",
+      "meaningVi": "chữ D",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-015",
+      "text": "E",
+      "meaningVi": "chữ E",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-016",
+      "text": "F",
+      "meaningVi": "chữ F",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-017",
+      "text": "G",
+      "meaningVi": "chữ G",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-018",
+      "text": "H",
+      "meaningVi": "chữ H",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-019",
+      "text": "I",
+      "meaningVi": "chữ I",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-020",
+      "text": "J",
+      "meaningVi": "chữ J",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-021",
+      "text": "K",
+      "meaningVi": "chữ K",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-022",
+      "text": "L",
+      "meaningVi": "chữ L",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-023",
+      "text": "M",
+      "meaningVi": "chữ M",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-024",
+      "text": "N",
+      "meaningVi": "chữ N",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-025",
+      "text": "O",
+      "meaningVi": "chữ O",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-026",
+      "text": "P",
+      "meaningVi": "chữ P",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-027",
+      "text": "Q",
+      "meaningVi": "chữ Q",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-028",
+      "text": "R",
+      "meaningVi": "chữ R",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-029",
+      "text": "S",
+      "meaningVi": "chữ S",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-030",
+      "text": "T",
+      "meaningVi": "chữ T",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-031",
+      "text": "U",
+      "meaningVi": "chữ U",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-032",
+      "text": "V",
+      "meaningVi": "chữ V",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-033",
+      "text": "W",
+      "meaningVi": "chữ W",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-034",
+      "text": "X",
+      "meaningVi": "chữ X",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-035",
+      "text": "Y",
+      "meaningVi": "chữ Y",
+      "type": "word"
+    },
+    {
+      "id": "book-30-word-036",
+      "text": "Z",
+      "meaningVi": "chữ Z",
+      "type": "word"
+    }
+  ]
+}
