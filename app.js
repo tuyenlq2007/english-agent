@@ -6,8 +6,14 @@ const messages = {
   tryAgain: "Hãy thử lại.",
   retryLater: "Mình sẽ lưu mục này để bạn ôn lại lần sau.",
   finished: "Bạn đã hoàn thành buổi luyện tập.",
-  unsupported: "Trình duyệt này chưa hỗ trợ nhận diện giọng nói. Bạn có thể dùng nút Mark correct hoặc Retry later."
+  unsupported: "Trình duyệt này chưa hỗ trợ nhận diện giọng nói. Bạn có thể dùng nút Mark correct hoặc Retry later.",
+  noSpeech: "Mình chưa nghe thấy bạn. Hãy nói gần micrô hơn và thử lại.",
+  permissionDenied: "Chưa thể dùng micrô. Hãy cho phép trang này truy cập micrô rồi thử lại.",
+  recognitionUnavailable: "Chưa thể nhận diện giọng nói. Hãy kiểm tra kết nối Internet (lần đầu cần tải mô hình) rồi thử lại."
 };
+
+// How long the recognised words stay on screen before the next item starts.
+const reviewDelayMs = 2500;
 
 let books = [];
 const maxAttempts = 3;
@@ -21,6 +27,7 @@ const state = {
   loadingBooks: true,
   started: false,
   listening: false,
+  reviewing: false,
   promptToken: 0,
   progress: loadProgress(),
   items: []
@@ -145,6 +152,8 @@ function createSessionItems() {
 function resetSessionFromSelection() {
   state.started = false;
   state.listening = false;
+  state.reviewing = false;
+  whisper.stop();
   state.promptToken += 1;
   state.currentIndex = 0;
   state.items = createSessionItems();
@@ -216,15 +225,53 @@ function findNextPlayableIndex() {
   return index === -1 ? state.items.length : index;
 }
 
+async function listenWithWhisper(item) {
+  const token = state.promptToken;
+  state.listening = true;
+  item.status = "practicing";
+  el.transcript.textContent = "Bạn nói: đang nghe...";
+  render();
+
+  try {
+    const transcript = await whisper.listen((status) => {
+      if (status === "processing" && token === state.promptToken) {
+        el.transcript.textContent = "Bạn nói: đang xử lý...";
+      }
+    });
+    state.listening = false;
+    if (token !== state.promptToken || currentItem() !== item) return;
+    el.transcript.textContent = `Bạn nói: ${transcript}`;
+    render();
+    handleResult(transcript);
+  } catch (error) {
+    state.listening = false;
+    if (token !== state.promptToken || error.code === "aborted") {
+      render();
+      return;
+    }
+    el.transcript.textContent = "Bạn nói: ...";
+    el.agentMessage.textContent =
+      error.code === "no-speech" ? messages.noSpeech
+        : error.code === "permission-denied" ? messages.permissionDenied
+          : messages.recognitionUnavailable;
+    render();
+  }
+}
+
 function listen() {
+  const item = currentItem();
+  if (!item || state.listening || state.reviewing) return;
+
+  if (whisper.supported) {
+    listenWithWhisper(item);
+    return;
+  }
+
   if (!SpeechRecognition) {
     el.agentMessage.textContent = messages.unsupported;
     render();
     return;
   }
-
-  const item = currentItem();
-  if (!item) return;
 
   recognition = new SpeechRecognition();
   recognition.lang = "en-US";
@@ -286,10 +333,26 @@ async function reloadAgent() {
     recognition.abort();
   }
   state.promptToken += 1;
+  state.reviewing = false;
+  whisper.stop();
   refreshVoices();
   el.transcript.textContent = "Bạn nói: ...";
   el.agentMessage.textContent = "Reloading agent...";
   await loadBooks();
+
+if (whisper.supported) {
+  // Download the Whisper model in the background so the first answer is not delayed.
+  whisper
+    .warmUp((percent) => {
+      if (!state.started) el.agentMessage.textContent = `Đang tải mô hình Whisper (${Math.round(percent)}%)...`;
+    })
+    .then(() => {
+      if (!state.started) el.agentMessage.textContent = "Whisper đã sẵn sàng. Bấm Start để luyện nói.";
+    })
+    .catch(() => {
+      if (!state.started) el.agentMessage.textContent = messages.recognitionUnavailable;
+    });
+}
 }
 
 function handleResult(transcript) {
@@ -297,13 +360,13 @@ function handleResult(transcript) {
   if (!item) return;
 
   if (isCorrect(transcript, item.text)) {
-    passCurrentItem();
+    passCurrentItem(true);
     return;
   }
 
   item.attempts += 1;
   if (item.attempts >= maxAttempts) {
-    retryLater();
+    retryLater(true);
     return;
   }
 
@@ -313,28 +376,46 @@ function handleResult(transcript) {
   repeatCurrentItem();
 }
 
-function passCurrentItem() {
+function passCurrentItem(afterSpeech = false) {
   const item = currentItem();
-  if (!item) return;
+  if (!item || state.reviewing) return;
   item.status = "passed";
   item.nextReviewAt = null;
   el.agentMessage.textContent = messages.correct;
   updateProgress(item);
-  moveNext();
+  advance(afterSpeech);
 }
 
-function retryLater() {
+function retryLater(afterSpeech = false) {
   const item = currentItem();
-  if (!item) return;
+  if (!item || state.reviewing) return;
   item.status = "retry_later";
   item.nextReviewAt = new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString();
   el.agentMessage.textContent = messages.retryLater;
   updateProgress(item);
-  moveNext();
+  advance(afterSpeech);
+}
+
+// After a spoken answer, keep the target and recognised words visible before moving on.
+function advance(afterSpeech) {
+  if (!afterSpeech) {
+    moveNext();
+    return;
+  }
+  state.reviewing = true;
+  const token = (state.promptToken += 1);
+  window.speechSynthesis.cancel();
+  render();
+  window.setTimeout(() => {
+    if (token !== state.promptToken) return;
+    state.reviewing = false;
+    moveNext();
+  }, reviewDelayMs);
 }
 
 function moveNext() {
   state.currentIndex = findNextPlayableIndex();
+  el.transcript.textContent = "Bạn nói: ...";
   render();
   if (currentItem()) {
     window.setTimeout(speakCurrent, 500);
@@ -407,10 +488,10 @@ function render() {
   el.startSelect.disabled = state.loadingBooks || sessionActive;
   el.startBtn.disabled = state.loadingBooks || sessionActive || state.items.length === 0;
   el.startBtn.textContent = state.started && !item ? "Start again" : "Start";
-  el.speakBtn.disabled = state.loadingBooks || !item;
-  el.listenBtn.disabled = state.loadingBooks || !item || state.listening;
-  el.correctBtn.disabled = state.loadingBooks || !item;
-  el.skipBtn.disabled = state.loadingBooks || !item;
+  el.speakBtn.disabled = state.loadingBooks || !item || state.reviewing;
+  el.listenBtn.disabled = state.loadingBooks || !item || state.listening || state.reviewing;
+  el.correctBtn.disabled = state.loadingBooks || !item || state.reviewing;
+  el.skipBtn.disabled = state.loadingBooks || !item || state.reviewing;
   el.listenBtn.textContent = state.listening ? "Listening..." : "Listen";
 
   renderQueue();
@@ -431,8 +512,8 @@ el.startSelect.addEventListener("change", () => {
 el.startBtn.addEventListener("click", startSession);
 el.speakBtn.addEventListener("click", speakCurrent);
 el.listenBtn.addEventListener("click", listen);
-el.correctBtn.addEventListener("click", passCurrentItem);
-el.skipBtn.addEventListener("click", retryLater);
+el.correctBtn.addEventListener("click", () => passCurrentItem(false));
+el.skipBtn.addEventListener("click", () => retryLater(false));
 el.reloadBtn.addEventListener("click", reloadAgent);
 
 refreshVoices();

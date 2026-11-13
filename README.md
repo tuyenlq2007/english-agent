@@ -8,6 +8,8 @@ English Agent is a static browser app for English speaking practice with Vietnam
 - Vietnamese meaning shown on screen
 - British English voice preference for prompts
 - Automatic listening after the agent speaks
+- Speech recognition with Whisper running in the browser (falls back to the browser's built-in recognition)
+- The recognised words stay on screen for a moment before the next item starts
 - Three failed attempts before retrying later
 - Local progress saved in the browser with `localStorage`
 
@@ -95,6 +97,12 @@ Example item:
 ```
 
 Use unique `id` values. Set `type` to `word` or `sentence`.
+
+## Speech Recognition and Privacy
+
+Answers are transcribed by the Whisper `whisper-base.en` model, which runs entirely in the browser through Transformers.js. Microphone audio is not uploaded anywhere. On first use the browser downloads the library from jsDelivr and the model files (about 80 MB) from Hugging Face, then caches them, so the first load needs Internet access. The recording stops automatically about 1.2 seconds after you finish speaking. If you pause a lot in the middle of a sentence, the app waits longer (up to 3 seconds).
+
+If Whisper cannot run (for example, no `AudioContext` or `Worker`), the app uses the browser's built-in speech recognition instead.
 
 ## Browser Notes
 
